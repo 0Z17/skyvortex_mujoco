@@ -1,0 +1,4 @@
+/home/wsl/proj/skyvortex_mujoco/build/CMakeFiles/rebuild_cache.dir
+/home/wsl/proj/skyvortex_mujoco/build/CMakeFiles/edit_cache.dir
+/home/wsl/proj/skyvortex_mujoco/build/CMakeFiles/collision_test.dir
+/home/wsl/proj/skyvortex_mujoco/build/CMakeFiles/mujoco_client.dir

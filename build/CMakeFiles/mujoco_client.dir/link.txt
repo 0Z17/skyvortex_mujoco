@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmujoco_client.a  CMakeFiles/mujoco_client.dir/src/mujoco_client.cpp.o
+/usr/bin/ranlib libmujoco_client.a
